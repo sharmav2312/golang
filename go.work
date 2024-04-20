@@ -1,0 +1,16 @@
+go 1.21.6
+
+use (
+	./01hello
+	./03webrequest
+	./04handlingurl
+	./05creatingserver
+	./06webrequests
+	./07urls
+	./08getpostform
+	./09creatingJSONdata
+	./concurrency
+	./gin-tutorial
+	./greetings
+	./hello
+)
